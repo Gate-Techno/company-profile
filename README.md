@@ -15,7 +15,7 @@
     cd nusa-tailwind
     ```
 
-2. Jalankan project dengan liveserver atau akses:
+2. Jalankan project dengan live server atau akses:
 
     ```bash
     http://127.0.0.1:5500
@@ -58,7 +58,7 @@ Proyek ini dilisensikan di bawah [MIT License](LICENSE).
 
 Jika Anda menemukan masalah atau memiliki pertanyaan, jangan ragu untuk membuka issue atau menghubungi kami melalui email di nusa@gmail.com.
 
-Terima kasih telah menggunakan Agrovision! 🌾
+Terima kasih telah menggunakan NUSA UI! 🚀
 
 ---
 
